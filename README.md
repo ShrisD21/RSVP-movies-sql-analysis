@@ -10,3 +10,20 @@ Each section includes:
 1. Open `rsvp_movie_analysis.sql` in your SQL editor (e.g., MySQL Workbench, DBeaver).
 2. Ensure the database and tables are properly set up.
 3. Run each query block after reading the question for better understanding.
+
+## Dataset
+The repository includes a dataset used for analyzing movie trends, ratings, and audience behavior.
+This dataset is used for performing:
+- Exploratory Data Analysis (EDA)
+- SQL-based querying
+- Insight generation for business recommendations
+
+## Entity-Relationship Diagram (ERD) and Complete Dataset Reference
+
+An ERD file is included with the **complete data** to help visualize the structure and relationships between tables in the movie dataset.
+
+- **File Name**: `IMDb+movies+Data+and+ERD+final.xlsx`
+- Full datasets used in the project
+- Table-wise structure with columns and sample values
+- Relationships between different tables (foreign keys)
+- Useful for understanding how to query across tables
